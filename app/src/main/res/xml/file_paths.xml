@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Everything the app shares lives inside its private files directory. -->
+<paths>
+    <files-path name="sessions" path="sessions/" />
+    <files-path name="export" path="export/" />
+</paths>

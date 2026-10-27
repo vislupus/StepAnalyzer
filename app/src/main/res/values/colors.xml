@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window background shown before Compose draws the first frame. -->
+    <color name="window_background">#F6F7FA</color>
+    <!-- Adaptive launcher icon background (indigo, the default accent). -->
+    <color name="ic_launcher_background">#4F5FDB</color>
+</resources>
